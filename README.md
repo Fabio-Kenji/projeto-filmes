@@ -2,7 +2,7 @@
 
 Um site que usa uma API do TMDB para ver detalhes dos filmes
 
-fabio-kenji.github.io/projeto-filmes/
+https://fabio-kenji.github.io/projeto-filmes/
 
 Feito com o video do Matheus Battisti
 
